@@ -1,0 +1,55 @@
+Sep 05, 2016 10:50:33 PM campbest.ClientMain <init>
+INFO: ClientMAIN - Port = 1234 fqdn=localhost
+Sep 05, 2016 10:50:33 PM campbest.ClientMain Main
+INFO: Connecting
+Sep 05, 2016 10:50:38 PM campbest.ClientMain Main
+SEVERE: error during connection
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readUnsignedShort(Unknown Source)
+	at java.io.DataInputStream.readUTF(Unknown Source)
+	at java.io.DataInputStream.readUTF(Unknown Source)
+	at campbest.ClientMain.readGreeting(ClientMain.java:109)
+	at campbest.ClientMain.Main(ClientMain.java:79)
+	at campbest.ClientMain.main(ClientMain.java:48)
+
+Sep 05, 2016 10:50:38 PM campbest.ClientMain Main
+INFO: Connecting
+Sep 05, 2016 10:50:43 PM campbest.ClientMain Main
+SEVERE: error during connection
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readUnsignedShort(Unknown Source)
+	at java.io.DataInputStream.readUTF(Unknown Source)
+	at java.io.DataInputStream.readUTF(Unknown Source)
+	at campbest.ClientMain.readGreeting(ClientMain.java:109)
+	at campbest.ClientMain.Main(ClientMain.java:79)
+	at campbest.ClientMain.main(ClientMain.java:48)
+
+Sep 05, 2016 10:50:43 PM campbest.ClientMain Main
+INFO: Connecting
+Sep 05, 2016 10:50:49 PM campbest.ClientMain Main
+SEVERE: error during connection
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readUnsignedShort(Unknown Source)
+	at java.io.DataInputStream.readUTF(Unknown Source)
+	at java.io.DataInputStream.readUTF(Unknown Source)
+	at campbest.ClientMain.readGreeting(ClientMain.java:109)
+	at campbest.ClientMain.Main(ClientMain.java:79)
+	at campbest.ClientMain.main(ClientMain.java:48)
+
+Sep 05, 2016 10:50:49 PM campbest.ClientMain Main
+INFO: Connecting

@@ -1,0 +1,50 @@
+Sep 06, 2016 10:07:44 AM campbest.HTTPServer Main
+INFO: Connected to client
+Sep 06, 2016 10:07:44 AM campbest.HTTPServer getClientRequest
+INFO: Read 412 bytes from client
+Sep 06, 2016 10:07:44 AM campbest.HTTPServer processGET
+INFO: Sent GET response
+Sep 06, 2016 10:07:44 AM campbest.HTTPServer closeConnection
+INFO: Connection closed
+Sep 06, 2016 10:07:44 AM campbest.HTTPServer Main
+INFO: Connected to client
+Sep 06, 2016 10:07:44 AM campbest.HTTPServer getClientRequest
+INFO: Read 329 bytes from client
+Sep 06, 2016 10:07:44 AM campbest.HTTPServer processGET
+INFO: Sent GET response
+Sep 06, 2016 10:07:44 AM campbest.HTTPServer closeConnection
+INFO: Connection closed
+Sep 06, 2016 10:07:54 AM campbest.HTTPServer Main
+INFO: Connected to client
+Sep 06, 2016 10:07:54 AM campbest.HTTPServer getClientRequest
+INFO: Read 412 bytes from client
+Sep 06, 2016 10:07:54 AM campbest.HTTPServer processGET
+INFO: Sent GET response
+Sep 06, 2016 10:07:54 AM campbest.HTTPServer closeConnection
+INFO: Connection closed
+Sep 06, 2016 10:07:54 AM campbest.HTTPServer Main
+INFO: Connected to client
+Sep 06, 2016 10:07:54 AM campbest.HTTPServer getClientRequest
+INFO: Read 329 bytes from client
+Sep 06, 2016 10:07:54 AM campbest.HTTPServer processGET
+INFO: Sent GET response
+Sep 06, 2016 10:07:54 AM campbest.HTTPServer closeConnection
+INFO: Connection closed
+Sep 06, 2016 10:07:59 AM campbest.HTTPServer Main
+INFO: Connected to client
+Sep 06, 2016 10:07:59 AM campbest.HTTPServer getClientRequest
+INFO: Read 412 bytes from client
+Sep 06, 2016 10:07:59 AM campbest.HTTPServer processGET
+INFO: Sent GET response
+Sep 06, 2016 10:07:59 AM campbest.HTTPServer closeConnection
+INFO: Connection closed
+Sep 06, 2016 10:07:59 AM campbest.HTTPServer Main
+INFO: Connected to client
+Sep 06, 2016 10:07:59 AM campbest.HTTPServer getClientRequest
+INFO: Read 329 bytes from client
+Sep 06, 2016 10:07:59 AM campbest.HTTPServer processGET
+INFO: Sent GET response
+Sep 06, 2016 10:07:59 AM campbest.HTTPServer closeConnection
+INFO: Connection closed
+Sep 06, 2016 10:07:59 AM campbest.HTTPServer Main
+INFO: Connected to client
